@@ -10,7 +10,7 @@ app.get('/api/db', (req, res) => {
     res.json(db);
 })
 
-
+app.get()
 
 app.use('/', public);
 
